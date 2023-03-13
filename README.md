@@ -347,7 +347,7 @@ sns.boxplot(x='Hours', y='GAD_T', data=df).set_title('Comparison of Anxiety Scor
 
 <div class="output display_data">
 
-![](d26600fa0297b7b11d33f82f1902e10a21c2d1fb.png)
+![](output.png)
 
 </div>
 
@@ -382,7 +382,7 @@ sns.barplot(x='hours_bin', y='GAD_T', hue='Gender', data=grouped).set_title('Com
 
 <div class="output display_data">
 
-![](1648bd2beba85a0dcb5d6b936c9d6668a62d1fcd.png)
+![](output2.png)
 
 </div>
 
@@ -410,7 +410,7 @@ sns.boxplot(x='hours_bin', y='GAD_T', hue='Degree', data=df).set_title('Comparis
 
 <div class="output display_data">
 
-![](27ad28b5150e0310b48c05f0f62fb58e32cb596b.png)
+![](output3.png)
 
 </div>
 
